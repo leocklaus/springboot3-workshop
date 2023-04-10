@@ -1,4 +1,4 @@
-package com.lck.springcourse.resourcer;
+package com.lck.springcourse.resources;
 
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.GetMapping;
